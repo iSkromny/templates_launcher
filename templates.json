@@ -6,7 +6,7 @@
   },
   {
     "Name": "VerSus",
-    "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua", // Вероятно правильный вариант
+    "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt"
   }
 ]
