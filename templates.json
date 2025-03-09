@@ -3,10 +3,12 @@
     "Name": "Double Trouble",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/doubletrouble.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/changelog.txt"
+    "RemoteVersion": "1.2"
   },
   {
     "Name": "VerSus",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt"
+    "RemoteVersion": "1.0"
   }
 ]
