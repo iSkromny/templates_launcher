@@ -11,4 +11,10 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt",
     "RemoteVersion": "1.1"
   }
+  {
+    "Name": "Outrunner",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/Outrunner.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt",
+    "RemoteVersion": "2.9n"
+  }
 ]
