@@ -21,18 +21,18 @@
     "Name": "Bladerunner clover",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_clover.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_clover.txt",
-    "RemoteVersion": "1.2 beta4"
+    "RemoteVersion": "1.2beta4"
   },
   {
     "Name": "Bladerunner trinity",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_trinity.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_trinity.txt",
-    "RemoteVersion": "1.2 beta4"
+    "RemoteVersion": "1.2beta4"
   },
   {
     "Name": "Bladerunner duo",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_duo.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_duo.txt",
-    "RemoteVersion": "1.2 beta4"
+    "RemoteVersion": "1.2beta4"
   }
 ]
