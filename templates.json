@@ -43,5 +43,11 @@
     "Name": "Outcross",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/Outcross.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/changelog.txt"
+  },
+    {
+    "Name": "Outrunner-judge-barton",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/Outrunner-judge-barton.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/changelog.txt"
   }
+  
 ]
