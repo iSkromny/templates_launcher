@@ -3,36 +3,45 @@
     "Name": "Double_Trouble",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/doubletrouble.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/changelog.txt"
-    
   },
   {
     "Name": "VerSus",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt"
-    
   },
   {
     "Name": "Outrunner",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/Outrunner.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt"
-    
   },
   {
     "Name": "Bladerunner_clover",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_clover.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_clover.txt"
-    
   },
   {
     "Name": "Bladerunner_trinity",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_trinity.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_trinity.txt"
-    
   },
   {
     "Name": "Bladerunner_duo",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_duo.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_duo.txt"
-   
+  },
+  {
+    "Name": "Bladerunner",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/Bladerunner.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/changelog.txt"
+  },
+  {
+    "Name": "Fight!",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/Fight.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/changelog.txt"
+  },
+  {
+    "Name": "Outcross",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/Outcross.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/changelog.txt"
   }
 ]
