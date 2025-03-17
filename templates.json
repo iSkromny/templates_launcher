@@ -50,32 +50,32 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [close/corner_random]",
+    "Name": "Ultimate_close/corner_random",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate0.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [close]",
+    "Name": "Ultimate_close",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate1.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [open]",
+    "Name": "Ultimate_open",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate2.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [water]",
+    "Name": "Ultimate_water",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate3.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [open|water]",
+    "Name": "Ultimate_open|water",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate4.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
   {
-    "Name": "Ultimate [random]",
+    "Name": "Ultimate_random",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate5.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
   },
