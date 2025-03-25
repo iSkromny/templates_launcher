@@ -2,81 +2,105 @@
   {
     "Name": "Double_Trouble",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/doubletrouble.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "VerSus",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Outrunner",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/Outrunner.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Bladerunner_clover",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_clover.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_clover.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_clover.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Bladerunner_trinity",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_trinity.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_trinity.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_trinity.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Bladerunner_duo",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_duo.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_duo.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_duo.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Bladerunner",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/Bladerunner.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Fight",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/Fight.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Outcross",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/Outcross.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
     {
     "Name": "Outrunner-judge-barton",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/Outrunner-judge-barton.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate close-corner_random",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate0.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate close",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate1.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate open",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate2.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate water",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate3.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate open-water",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate4.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
   {
     "Name": "Ultimate random",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate5.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt"
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
+    "GameVersion": "sMNS"
   },
+  {
+    "Name": "Redfish",
+    "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/rf/main/Redfish.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/rf/main/changelog.txt",
+    "GameVersion": "MNS"
+  },
+
+  
 ]
