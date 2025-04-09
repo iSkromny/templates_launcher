@@ -102,10 +102,10 @@
     "VersionIdentifier": "MNS"
   },
   {
-    "Name": "freedom",
-    "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/freedom.lua",
-    "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/changelog.txt",
-    "VersionIdentifier": "sMNS"
+    #--"Name": "freedom",
+    #--"TemplateUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/freedom.lua",
+    #--"ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/changelog.txt",
+    #--"VersionIdentifier": "sMNS"
   },
 
   
