@@ -107,5 +107,10 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
-  
+   {
+    "Name": "Diligence",
+    "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/Diligence.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/changelog.txt",
+    "VersionIdentifier": "sMNS"
+  },
 ]
