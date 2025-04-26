@@ -106,6 +106,7 @@
     "Name": "freedom",
     "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/freedom.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/changelog.txt",
+    "ReadMeUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/README.md",
     "VersionIdentifier": "sMNS"
   },
    {
