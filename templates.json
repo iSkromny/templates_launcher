@@ -1,6 +1,7 @@
 [
   {
     "Name": "Double_Trouble",
+    "Author": "iSkromny",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/doubletrouble.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/changelog.txt",
     "ReadMeUrl": "https://raw.githubusercontent.com/iSkromny/doubletrouble/main/README.md",
@@ -8,108 +9,126 @@
   },
   {
     "Name": "VerSus",
+    "Author": "iSkromny",
     "TemplateUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/Versus.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/iSkromny/VerSus/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Outrunner",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/Outrunner.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Outrunner-training",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-training/main/Outrunner-training.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-training/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Bladerunner_clover",
+    "Author": "Barton",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_clover.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_clover.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Bladerunner_trinity",
+    "Author": "Barton",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_trinity.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_trinity.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Bladerunner_duo",
+    "Author": "Barton",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_duo.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/changelog_Bladerunner_duo.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Bladerunner",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/Bladerunner.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Bladerunner/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Fight",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/Fight.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Fight/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Outcross",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/Outcross.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
     {
     "Name": "Outrunner-judge-barton",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/Outrunner-judge-barton.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-judge-barton/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate close-corner_random",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate0.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate close",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate1.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate open",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate2.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate water",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate3.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate open-water",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate4.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Ultimate random",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/Ultimate5.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Ultimate/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
   {
     "Name": "Redfish",
+    "Author": "uchenik",
     "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Redfish/main/Redfish.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Redfish/main/changelog.txt",
     "VersionIdentifier": "MNS"
   },
   {
     "Name": "freedom",
+    "Author": "obscure",
     "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/freedom.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/changelog.txt",
     "ReadMeUrl": "https://raw.githubusercontent.com/obscurezz/freedom_template/main/README.md",
@@ -117,6 +136,7 @@
   },
    {
     "Name": "Diligence",
+     "Author": "obscure",
     "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/Diligence.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
