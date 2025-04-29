@@ -136,7 +136,7 @@
   },
    {
     "Name": "Diligence",
-     "Author": "obscure",
+    "Author": "obscure",
     "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/Diligence.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
