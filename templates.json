@@ -20,13 +20,6 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
-  /*{*/
-    /*"Name": "Outrunner-training",*/
-    /*"Author": "uchenik",*/
-    /*"TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-training/main/Outrunner-training.lua",*/
-    /*"ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outrunner-training/main/changelog.txt",*/
-    /*"VersionIdentifier": "sMNS"*/
- /*},*/
   {
     "Name": "Bladerunner_clover",
     "Author": "Barton",
