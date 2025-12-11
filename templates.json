@@ -133,4 +133,13 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
+  {
+    "Name": "The Finals",
+    "Author": "XMCaster",
+    "TemplateUrl": "https://raw.githubusercontent.com/XMCaster/The-Finals-Disciples2-Template/main/The%20Finals.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/XMCaster/The-Finals-Disciples2-Template/main/changelog.txt",
+    "VersionIdentifier": "sMNS"
+  },
+  
 ]
+
