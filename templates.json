@@ -118,6 +118,7 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Redfish/main/changelog.txt",
     "VersionIdentifier": "MNS"
   },
+  /*
   {
     "Name": "freedom",
     "Author": "obscure",
@@ -132,7 +133,8 @@
     "TemplateUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/Diligence.lua",
     "ChangelogUrl": "https://raw.githubusercontent.com/obscurezz/diligence_template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
-  },
+  },  
+  */
   {
     "Name": "The Finals",
     "Author": "XMCaster",
@@ -142,4 +144,5 @@
   },
   
 ]
+
 
