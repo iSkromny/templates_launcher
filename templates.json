@@ -126,7 +126,16 @@
     "ChangelogUrl": "https://raw.githubusercontent.com/XMCaster/The-Finals-Disciples2-Template/main/changelog.txt",
     "VersionIdentifier": "sMNS"
   },
+
+  {
+    "Name": "Rookie",
+    "Author": "Nickush",
+    "TemplateUrl": "https://raw.githubusercontent.com/alexnickco-lab/nickush/main/rookie_3_0g.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/alexnickco-lab/nickush/main/Rookie.txt",
+    "VersionIdentifier": "sMNS"
+  },
   
 ]
+
 
 
