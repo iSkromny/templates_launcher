@@ -21,6 +21,13 @@
     "VersionIdentifier": "sMNS"
   },
   {
+    "Name": "Outcross",
+    "Author": "uchenik",
+    "TemplateUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/refs/heads/main/Outcross.lua",
+    "ChangelogUrl": "https://raw.githubusercontent.com/uchenikd2/Outcross/refs/heads/main/changelog.txt",
+    "VersionIdentifier": "sMNS"
+  },
+  {
     "Name": "Bladerunner_clover",
     "Author": "Barton",
     "TemplateUrl": "https://raw.githubusercontent.com/bartonsun/D2-Templates/master/sMNS/Bladerunner/Bladerunner_clover.lua",
